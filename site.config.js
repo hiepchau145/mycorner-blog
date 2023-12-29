@@ -10,12 +10,12 @@ const CONFIG = {
     github: "",
     instagram: "hiepchauu",
   },
-  //projects: [
+  projects: [
   //  {
   //    name: ``,
   //    href: "",
   //  },
-  //],
+  ],
   // blog setting (required)
   blog: {
     title: "mycorner-blog",
