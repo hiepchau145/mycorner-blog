@@ -11,11 +11,11 @@ const CONFIG = {
     instagram: "hiepchauu",
   },
   //projects: [
-    {
-      name: ``,
-      href: "",
-    },
-  ],
+  //  {
+  //    name: ``,
+  //    href: "",
+  //  },
+  //],
   // blog setting (required)
   blog: {
     title: "mycorner-blog",
