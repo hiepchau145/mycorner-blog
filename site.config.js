@@ -11,10 +11,14 @@ const CONFIG = {
     instagram: "hiepchauu",
   },
   projects: [
-  //  {
-  //    name: ``,
-  //    href: "",
-  //  },
+    {
+      name: `Spotify Premium`,
+      href: "https://www.facebook.com/hiep.cqn/posts/pfbid0DcLEcJGTzje6YFjBzYZkRbKKKuDWWYExWGoX2ZdaTEfcDJZVEpdYQdRp6oDJAPoYl",
+    },
+    {
+      name: `Elsa Premium`,
+      href: "https://www.facebook.com/hiep.cqn/posts/pfbid0k3iMeRZK68UT9pbqs2aDXPCuYMmGS699MVy6Hxc4qVspFJ8byWNYx2FYPYZ6CnFjl",
+    },
   ],
   // blog setting (required)
   blog: {
