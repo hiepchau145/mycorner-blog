@@ -53,7 +53,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: false,
+    enable: true,
     config: {
       repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "",
       "issue-term": "og:title",
@@ -61,10 +61,10 @@ const CONFIG = {
     },
   },
   cusdis: {
-    enable: true,
+    enable: flase,
     config: {
       host: "https://cusdis.com",
-      appid: "539ab463-a949-4894-ac76-750e5105bfe7", // Embed Code -> data-app-id value
+      appid: "", // Embed Code -> data-app-id value
     },
   },
   isProd: process.env.VERCEL_ENV === "production", // distinguish between development and production environment (ref: https://vercel.com/docs/environment-variables#system-environment-variables)
