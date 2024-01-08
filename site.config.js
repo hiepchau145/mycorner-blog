@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "mycorner-blog",
-    description: "welcome to mycorner-blog!",
+    title: "hiepchau-log",
+    description: "welcome to log!",
   },
 
   // CONFIG configration (required)
